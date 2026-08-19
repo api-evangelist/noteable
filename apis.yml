@@ -38,7 +38,7 @@ x-shutdown-date: '2023-12-01'
 x-status-note: >-
   Acquired by Confluent 2023-12-01; platform terminated effective immediately (data export until
   2024-01-05). noteable.io now redirects to an Afternic for-sale parking page; no live API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
